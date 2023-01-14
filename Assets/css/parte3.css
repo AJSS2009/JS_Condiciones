@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+.selectores{
+    display: flex;
+    margin: 30px;
+}
